@@ -1,5 +1,6 @@
 function test(argumento1, argumento2, argumento1,next) {
-     var test1 = "";
-     var test2 = "";
+     letlet argumento1 = "";
+     letlet argumento2 = "";
+     let argumento2 = "";
      return next();
 }
